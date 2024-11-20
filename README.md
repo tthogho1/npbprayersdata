@@ -1,4 +1,4 @@
-# Scraping player data from the player directory on the NPB homepage
+# Scraping player data ....
 
 ```
 pip install requests beautifulsoup4 pandasnpb
